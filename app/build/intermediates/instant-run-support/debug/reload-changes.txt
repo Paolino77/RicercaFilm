@@ -1,0 +1,6 @@
+CHANGED,E:\Downloads\android-tmdb-example\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\Downloads\android-tmdb-example\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\daginge\tmdbsearch\TMDBSearchResultActivity$myMovieAdapter$override.class
+CHANGED,E:\Downloads\android-tmdb-example\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\daginge\tmdbsearch\TMDBSearchResultActivity$TMDBQueryManager$override.class
+CHANGED,E:\Downloads\android-tmdb-example\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\daginge\tmdbsearch\MainActivity$TMDBConfManager$override.class
+CHANGED,E:\Downloads\android-tmdb-example\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\daginge\tmdbsearch\TMDBSearchResultActivity$override.class
+CHANGED,E:\Downloads\android-tmdb-example\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\daginge\tmdbsearch\MainActivity$override.class

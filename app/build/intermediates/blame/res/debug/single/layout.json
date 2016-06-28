@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Downloads\\android-tmdb-example\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imdbsearch_result.xml",
+        "source": "E:\\Downloads\\android-tmdb-example\\app\\src\\main\\res\\layout\\activity_imdbsearch_result.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\android-tmdb-example\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Downloads\\android-tmdb-example\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\android-tmdb-example\\app\\build\\intermediates\\res\\merged\\debug\\layout\\movie_result_list_item.xml",
+        "source": "E:\\Downloads\\android-tmdb-example\\app\\src\\main\\res\\layout\\movie_result_list_item.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Downloads\\android-tmdb-example\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_imdbsearch_result.xml",
+        "source": "E:\\Downloads\\android-tmdb-example\\app\\src\\main\\res\\menu\\activity_imdbsearch_result.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\android-tmdb-example\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "E:\\Downloads\\android-tmdb-example\\app\\src\\main\\res\\menu\\activity_main.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ricerca Film</string>
+    <string name="button_send">Cerca</string>
+    <string name="conf_updated">Configurazione Aggiornata</string>
+    <string name="edit_message">Cerca un titolo</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="no_connection">Nessuna Connessione</string>
+    <string name="title_activity_imdbsearch_result">Risultati della Ricerca</string>
+    <string name="title_activity_main">Ricerca Film</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Ricerca Film</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="title_activity_main">Ricerca Film</string>
+    <string name="edit_message">Cerca un titolo</string>
+    <string name="button_send">Cerca</string>
+    <string name="title_activity_imdbsearch_result">Risultati della Ricerca</string>
+    <string name="conf_updated">Configurazione Aggiornata</string>
+    <string name="no_connection">Nessuna Connessione</string>
+
+</resources>
